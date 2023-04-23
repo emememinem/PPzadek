@@ -1,4 +1,4 @@
-,title,artist/s,danceability,energy,key,loudness,mode,speechiness,acousticness,valence,tempo,duration_ms,time_signature
+nub,title,artist/s,danceability,energy,key,loudness,mode,speechiness,acousticness,valence,tempo,duration_ms,time_signature
 0,사랑의 인사,발라드가수들,0.512,0.659,8,-5.381,1,0.0406,0.467,0.173,100.994,270106,4
 1,Tell me (Sampling From `Two Of Hearts`),Wonder Girls,0.792,0.924,6,-6.866,0,0.0327,0.104,0.968,127.003,217000,4
 2,Into the New World,Girls' Generation,0.708,0.892,4,-1.964,0,0.0349,0.0706,0.623,108.031,265760,4
