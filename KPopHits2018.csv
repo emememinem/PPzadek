@@ -1,4 +1,4 @@
-,title,artist/s,danceability,energy,key,loudness,mode,speechiness,acousticness,valence,tempo,duration_ms,time_signature
+nub,title,artist/s,danceability,energy,key,loudness,mode,speechiness,acousticness,valence,tempo,duration_ms,time_signature
 0,FAKE LOVE,BTS,0.557,0.719,2,-4.515,0,0.0372,0.00267,0.344,77.501,242334,4
 1,DDU-DU DDU-DU,BLACKPINK,0.671,0.859,4,-3.922,0,0.0833,0.0313,0.39,139.931,209355,4
 2,Regular - English Version,NCT 127,0.741,0.747,9,-5.459,0,0.0956,0.263,0.831,134.039,219107,4
