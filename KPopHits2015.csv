@@ -1,4 +1,4 @@
-,title,artist/s,danceability,energy,key,loudness,mode,speechiness,acousticness,valence,tempo,duration_ms,time_signature
+nub,title,artist/s,danceability,energy,key,loudness,mode,speechiness,acousticness,valence,tempo,duration_ms,time_signature
 0,View,SHINee,0.728,0.801,6,-4.428,0,0.0439,0.04,0.656,123.953,190821,4
 1,BANG BANG BANG,BIGBANG,0.69,0.843,1,-2.949,1,0.0534,0.0167,0.428,135.01,220178,4
 2,LOVE ME RIGHT,EXO,0.625,0.83,0,-2.33,1,0.0764,0.00266,0.757,110.04,205129,4
