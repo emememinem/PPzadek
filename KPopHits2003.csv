@@ -1,4 +1,4 @@
-,title,artist/s,danceability,energy,key,loudness,mode,speechiness,acousticness,valence,tempo,duration_ms,time_signature
+nub,title,artist/s,danceability,energy,key,loudness,mode,speechiness,acousticness,valence,tempo,duration_ms,time_signature
 0,결혼을 할거라면,Cool,0.762,0.86,11,-4.58,1,0.0524,0.314,0.96,142.06,220762,4
 1,너의 결혼식 Wedding,SHINHWA,0.816,0.886,10,-2.86,0,0.18,0.0216,0.823,108.045,206733,4
 2,태양을 피하는 방법 How to Run From the Sun (Gtr.Remix),Rain,0.829,0.541,10,-7.602,0,0.0601,0.389,0.41,90.0,231173,4
