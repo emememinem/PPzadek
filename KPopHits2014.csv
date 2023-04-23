@@ -1,4 +1,4 @@
-,title,artist/s,danceability,energy,key,loudness,mode,speechiness,acousticness,valence,tempo,duration_ms,time_signature
+nub,title,artist/s,danceability,energy,key,loudness,mode,speechiness,acousticness,valence,tempo,duration_ms,time_signature
 0,Up & Down,EXID,0.714,0.812,7,-2.703,1,0.0351,0.00189,0.377,112.018,189882,4
 1,Overdose,EXO-K,0.498,0.917,5,-1.797,0,0.164,0.0615,0.652,112.357,205612,5
 2,200%,"AKMU, 로빈, 이찬혁, LEE SUHYUN",0.853,0.638,1,-4.911,1,0.0536,0.379,0.872,102.064,193321,4
