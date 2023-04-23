@@ -1,4 +1,4 @@
-,title,artist/s,danceability,energy,key,loudness,mode,speechiness,acousticness,valence,tempo,duration_ms,time_signature
+nub,title,artist/s,danceability,energy,key,loudness,mode,speechiness,acousticness,valence,tempo,duration_ms,time_signature
 0,아낌없이 주는 나무 : Originally Performed By 문희준 Karaoke Verison,코케,0.438,0.456,9,-14.843,0,0.0411,0.3,0.234,84.984,220778,4
 1,No.1,BoA,0.727,0.84,8,-4.293,1,0.0964,0.114,0.807,102.993,193227,4
 2,Perfect Man,SHINHWA,0.751,0.912,5,-1.822,0,0.0391,0.0247,0.804,108.002,205000,4
