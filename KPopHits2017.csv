@@ -1,4 +1,4 @@
-,title,artist/s,danceability,energy,key,loudness,mode,speechiness,acousticness,valence,tempo,duration_ms,time_signature
+nub,title,artist/s,danceability,energy,key,loudness,mode,speechiness,acousticness,valence,tempo,duration_ms,time_signature
 0,DNA,BTS,0.598,0.775,1,-4.035,0,0.0545,0.022,0.687,129.819,223123,4
 1,Ko Ko Bop,EXO,0.749,0.85,0,-4.346,1,0.0468,0.0319,0.672,145.983,190423,4
 2,Energetic,Wanna One,0.714,0.886,0,-3.076,1,0.0461,0.058,0.752,125.046,189356,4
