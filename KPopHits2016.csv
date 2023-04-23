@@ -1,4 +1,4 @@
-,title,artist/s,danceability,energy,key,loudness,mode,speechiness,acousticness,valence,tempo,duration_ms,time_signature
+nub,title,artist/s,danceability,energy,key,loudness,mode,speechiness,acousticness,valence,tempo,duration_ms,time_signature
 0,TT,TWICE,0.708,0.852,2,-4.398,1,0.0851,0.0525,0.396,129.946,212987,4
 1,Monster,EXO,0.618,0.76,6,-4.312,1,0.0596,0.0066,0.541,150.0,221341,4
 2,FXXK IT,BIGBANG,0.716,0.763,0,-3.001,0,0.0945,0.147,0.575,90.101,231748,4
