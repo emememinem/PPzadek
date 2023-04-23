@@ -1,4 +1,4 @@
-,title,artist/s,danceability,energy,key,loudness,mode,speechiness,acousticness,valence,tempo,duration_ms,time_signature
+nub,title,artist/s,danceability,energy,key,loudness,mode,speechiness,acousticness,valence,tempo,duration_ms,time_signature
 0,Just In Love,S.E.S.,0.65,0.899,7,-3.216,1,0.0467,0.288,0.556,94.972,290707,4
 1,벌써 일년,Brown Eyes,0.72,0.73,8,-4.205,1,0.0237,0.19,0.55,104.017,207827,4
 2,아름다운 날들,Jang Hyejin,0.466,0.676,6,-4.232,1,0.0329,0.277,0.14,137.945,248764,4
